@@ -1,5 +1,5 @@
 ---
-title: Walter Woodman
+title: Walter Woodman-change
 pronouns: he/they
 image: /img/people/Renoir.jpg
 roles:
